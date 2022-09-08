@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2022-09-08: test(db): add rate limiting
 - 2022-02-15: Update environment config
 - 2021-07-26: Improve error handling
 - 2024-03-06: docs(ui): add validation middleware
