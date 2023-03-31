@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2023-03-31: Fix broken unit test
 - 2023-01-23: style(ui): add rate limiting
 - 2022-09-08: test(db): add rate limiting
 - 2022-02-15: Update environment config
