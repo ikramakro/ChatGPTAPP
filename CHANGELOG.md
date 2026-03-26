@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-03-26: docs(ui): add rate limiting
 - 2025-09-03: Update logging output
 - 2024-12-04: Clean up unused imports
 - 2023-03-31: Fix broken unit test
